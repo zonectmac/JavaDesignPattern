@@ -14,6 +14,7 @@ package abstractFactory;
  * 注意事项：产品族难扩展，产品等级易扩展。
  */
 public class AbstractFactoryPatternDemo {
+
     public static void main(String[] args) {
         // 获取形状工厂
         AbstractFactory shapeFactory = FactoryProducer.getFactory("SHAPE");
