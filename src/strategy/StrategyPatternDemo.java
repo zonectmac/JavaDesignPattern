@@ -18,7 +18,6 @@ public class StrategyPatternDemo {
         Context context = new Context(new OperationAdd());
         System.out.println("1+2=" + context.excuteStrategy(1, 2));
 
-
         Context context1 = new Context(new OperationSubstract());
         System.out.println("9-1=" + context1.excuteStrategy(9, 1));
 
