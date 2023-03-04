@@ -1,4 +1,4 @@
-package abstractFactory;
+package abstractFactoryPattern;
 
 public interface Shape {
     void draw();

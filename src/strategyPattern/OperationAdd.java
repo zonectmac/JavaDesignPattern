@@ -1,4 +1,4 @@
-package strategy;
+package strategyPattern;
 
 public class OperationAdd implements Strategy {
     @Override

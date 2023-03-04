@@ -1,4 +1,4 @@
-package factory;
+package factoryPattern;
 
 /**
  * 普通工厂接口

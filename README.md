@@ -6,8 +6,8 @@ java设计模式案例
 ## 1、创建型模型
 这些设计模式提供了一种在创建对象的同时隐藏创建逻辑的方式，而不是使用新的运算符直接实例化对象。这使得程序在判断针对某个给定实例需要创建哪些对象时更加灵活。
 
-+ 工厂模式（factory pattern）
-+ 抽象工厂模式（abstract factory pattern）
++ 工厂模式（factoryPattern pattern）
++ 抽象工厂模式（abstract factoryPattern pattern）
 + 单例模式（singleton pattern）
 + 建造者模式（builder pattern）
 + 原型模式（prototype pattern）
@@ -37,7 +37,7 @@ java设计模式案例
 + 观察者模式（observer pattern）
 + 状态模式（state pattern）
 + 空对象模式（null object pattern）
-+ 策略模式（strategy pattern）
++ 策略模式（strategyPattern pattern）
 + 模版模式（template pattern）
 + 访问者模式（visitor pattern）
 

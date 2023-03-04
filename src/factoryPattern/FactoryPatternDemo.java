@@ -1,4 +1,4 @@
-package factory;
+package factoryPattern;
 
 /**
  * 工厂模式调用

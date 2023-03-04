@@ -1,8 +1,8 @@
-package abstractFactory;
+package factoryPattern;
 
 public class Rectangle implements Shape {
     @Override
     public void draw() {
-
+        System.out.println("Rectangle的draw方法");
     }
 }

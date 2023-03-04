@@ -1,4 +1,4 @@
-package abstractFactory;
+package abstractFactoryPattern;
 
 /**
  * 抽象工厂实现类, * 抽象工厂就是对普通工厂的扩展

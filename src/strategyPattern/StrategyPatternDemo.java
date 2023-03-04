@@ -1,4 +1,4 @@
-package strategy;
+package strategyPattern;
 
 /**
  * 策略模式

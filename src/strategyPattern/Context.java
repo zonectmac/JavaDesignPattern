@@ -1,4 +1,4 @@
-package strategy;
+package strategyPattern;
 
 public class Context {
     private Strategy strategy;

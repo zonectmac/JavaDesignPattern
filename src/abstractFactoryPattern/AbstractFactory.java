@@ -1,4 +1,4 @@
-package abstractFactory;
+package abstractFactoryPattern;
 
 /**
  * 抽象工厂
