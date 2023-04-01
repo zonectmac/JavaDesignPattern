@@ -7,7 +7,9 @@ java设计模式案例
 这些设计模式提供了一种在创建对象的同时隐藏创建逻辑的方式，而不是使用新的运算符直接实例化对象。这使得程序在判断针对某个给定实例需要创建哪些对象时更加灵活。
 
 + 工厂模式（factoryPattern pattern）
++ ![img_3.png](img_3.png)
 + 抽象工厂模式（abstract factoryPattern pattern）
++ ![img_4.png](img_4.png)
 + 单例模式（singleton pattern）
 + 建造者模式（builder pattern）
 + 原型模式（prototype pattern）
@@ -17,6 +19,7 @@ java设计模式案例
 这些设计模式关注类和对象的组合。继承的概念被用来组合接口和定义组合对象获得新功能的方式。
 
 + 适配器模式（adapter pattern）
++ ![img_2.png](img_2.png)
 + 桥接模式（bridge pattern）
 + 过滤器模式（filter、criteria pattern）
 + 组合模式（composite pattern）
@@ -29,6 +32,7 @@ java设计模式案例
 这些设计模式特别关注对象之间的通信
 
 + 责任链模式（chain of responsibility pattern）
++ ![img_1.png](img_1.png)
 + 命令模式（command pattern）
 + 解释器模式（interpreter pattern）
 + 迭代器模式（iterator pattern）
@@ -38,6 +42,7 @@ java设计模式案例
 + 状态模式（state pattern）
 + 空对象模式（null object pattern）
 + 策略模式（strategyPattern pattern）
++ ![img_5.png](img_5.png)
 + 模版模式（template pattern）
 + 访问者模式（visitor pattern）
 
