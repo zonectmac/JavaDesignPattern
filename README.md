@@ -14,6 +14,7 @@ java设计模式案例
 + ![img_6.png](img_6.png)
 + 建造者模式（builder pattern）
 + 原型模式（prototype pattern）
++ ![img_7.png](img_7.png)
 
 
 ## 2、结构型模型
