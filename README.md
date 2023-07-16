@@ -11,6 +11,7 @@ java设计模式案例
 + 抽象工厂模式（abstract factoryPattern pattern）
 + ![img_4.png](img_4.png)
 + 单例模式（singleton pattern）
++ ![img_6.png](img_6.png)
 + 建造者模式（builder pattern）
 + 原型模式（prototype pattern）
 
